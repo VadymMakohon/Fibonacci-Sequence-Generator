@@ -11,3 +11,6 @@ This is a simple console application written in C# that generates a Fibonacci se
 5. The program will display the generated Fibonacci sequence.
 
 ## Example
+
+![Screenshot 2024-05-23 at 10 10 17 AM](https://github.com/VadymMakohon/Fibonacci-Sequence-Generator/assets/138728243/74fb8d47-d5cf-481a-9afb-bff749b4a3a3)
+
