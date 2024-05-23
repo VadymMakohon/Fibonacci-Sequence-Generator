@@ -14,3 +14,8 @@ This is a simple console application written in C# that generates a Fibonacci se
 
 ![Screenshot 2024-05-23 at 10 10 17 AM](https://github.com/VadymMakohon/Fibonacci-Sequence-Generator/assets/138728243/74fb8d47-d5cf-481a-9afb-bff749b4a3a3)
 
+In this example, the user has entered `10` as the number of Fibonacci numbers to generate. The program then displays the generated Fibonacci sequence, which includes the first `10` terms of the sequence.
+
+## Contributors
+- [Vadym Makohon](https://github.com/VadymMakohon)
+
