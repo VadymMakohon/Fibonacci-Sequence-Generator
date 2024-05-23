@@ -16,6 +16,6 @@ This is a simple console application written in C# that generates a Fibonacci se
 
 In this example, the user has entered `10` as the number of Fibonacci numbers to generate. The program then displays the generated Fibonacci sequence, which includes the first `10` terms of the sequence.
 
-## Contributors
+## Contributor
 - [Vadym Makohon](https://github.com/VadymMakohon)
 
