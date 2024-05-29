@@ -21,22 +21,18 @@ namespace FibonacciGenerator
 
             // Display the generated sequence
             Console.WriteLine("Generated Fibonacci sequence:");
-            foreach (int num in fibonacciSequence)
-            {
-                Console.Write(num + " ");
-            }
-            Console.WriteLine();
+            Console.WriteLine(string.Join(" ", fibonacciSequence));
         }
 
         // Method to generate Fibonacci sequence
         static int[] GenerateFibonacciSequence(int count)
         {
             int[] sequence = new int[count];
-            if (count >= 1)
+            if (count > 0)
             {
                 sequence[0] = 0;
             }
-            if (count >= 2)
+            if (count > 1)
             {
                 sequence[1] = 1;
             }
