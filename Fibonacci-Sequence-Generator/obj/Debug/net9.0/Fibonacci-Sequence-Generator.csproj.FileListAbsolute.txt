@@ -1,0 +1,15 @@
+/Users/vadymmakohon/Desktop/Fibonacci-Sequence-Generator/Fibonacci-Sequence-Generator/bin/Debug/net9.0/Fibonacci-Sequence-Generator
+/Users/vadymmakohon/Desktop/Fibonacci-Sequence-Generator/Fibonacci-Sequence-Generator/bin/Debug/net9.0/Fibonacci-Sequence-Generator.deps.json
+/Users/vadymmakohon/Desktop/Fibonacci-Sequence-Generator/Fibonacci-Sequence-Generator/bin/Debug/net9.0/Fibonacci-Sequence-Generator.runtimeconfig.json
+/Users/vadymmakohon/Desktop/Fibonacci-Sequence-Generator/Fibonacci-Sequence-Generator/bin/Debug/net9.0/Fibonacci-Sequence-Generator.dll
+/Users/vadymmakohon/Desktop/Fibonacci-Sequence-Generator/Fibonacci-Sequence-Generator/bin/Debug/net9.0/Fibonacci-Sequence-Generator.pdb
+/Users/vadymmakohon/Desktop/Fibonacci-Sequence-Generator/Fibonacci-Sequence-Generator/obj/Debug/net9.0/Fibonacci-Sequence-Generator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadymmakohon/Desktop/Fibonacci-Sequence-Generator/Fibonacci-Sequence-Generator/obj/Debug/net9.0/Fibonacci-Sequence-Generator.AssemblyInfoInputs.cache
+/Users/vadymmakohon/Desktop/Fibonacci-Sequence-Generator/Fibonacci-Sequence-Generator/obj/Debug/net9.0/Fibonacci-Sequence-Generator.AssemblyInfo.cs
+/Users/vadymmakohon/Desktop/Fibonacci-Sequence-Generator/Fibonacci-Sequence-Generator/obj/Debug/net9.0/Fibonacci-Sequence-Generator.csproj.CoreCompileInputs.cache
+/Users/vadymmakohon/Desktop/Fibonacci-Sequence-Generator/Fibonacci-Sequence-Generator/obj/Debug/net9.0/Fibonacci-Sequence-Generator.sourcelink.json
+/Users/vadymmakohon/Desktop/Fibonacci-Sequence-Generator/Fibonacci-Sequence-Generator/obj/Debug/net9.0/Fibonacci-Sequence-Generator.dll
+/Users/vadymmakohon/Desktop/Fibonacci-Sequence-Generator/Fibonacci-Sequence-Generator/obj/Debug/net9.0/refint/Fibonacci-Sequence-Generator.dll
+/Users/vadymmakohon/Desktop/Fibonacci-Sequence-Generator/Fibonacci-Sequence-Generator/obj/Debug/net9.0/Fibonacci-Sequence-Generator.pdb
+/Users/vadymmakohon/Desktop/Fibonacci-Sequence-Generator/Fibonacci-Sequence-Generator/obj/Debug/net9.0/Fibonacci-Sequence-Generator.genruntimeconfig.cache
+/Users/vadymmakohon/Desktop/Fibonacci-Sequence-Generator/Fibonacci-Sequence-Generator/obj/Debug/net9.0/ref/Fibonacci-Sequence-Generator.dll

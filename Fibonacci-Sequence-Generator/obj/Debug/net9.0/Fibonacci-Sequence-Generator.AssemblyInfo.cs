@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fibonacci-Sequence-Generator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c7cbc4099ed53f68c63b76f9a5ba519686a8d02")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b8b9dc78ebd29ef5f7be47106aa19299ea103c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fibonacci-Sequence-Generator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fibonacci-Sequence-Generator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
