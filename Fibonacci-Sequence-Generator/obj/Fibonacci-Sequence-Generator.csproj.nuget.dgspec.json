@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/vadymmakohon/Desktop/Fibonacci-Sequence-Generator/Fibonacci-Sequence-Generator/Fibonacci-Sequence-Generator.csproj": {}
+  },
+  "projects": {
+    "/Users/vadymmakohon/Desktop/Fibonacci-Sequence-Generator/Fibonacci-Sequence-Generator/Fibonacci-Sequence-Generator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vadymmakohon/Desktop/Fibonacci-Sequence-Generator/Fibonacci-Sequence-Generator/Fibonacci-Sequence-Generator.csproj",
+        "projectName": "Fibonacci-Sequence-Generator",
+        "projectPath": "/Users/vadymmakohon/Desktop/Fibonacci-Sequence-Generator/Fibonacci-Sequence-Generator/Fibonacci-Sequence-Generator.csproj",
+        "packagesPath": "/Users/vadymmakohon/.nuget/packages/",
+        "outputPath": "/Users/vadymmakohon/Desktop/Fibonacci-Sequence-Generator/Fibonacci-Sequence-Generator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vadymmakohon/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
